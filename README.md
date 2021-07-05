@@ -35,11 +35,12 @@ Mailer:
 User gets mail on the specified email id upon commenting
 All the functionalities are added dynamically using AJAX so that the page does not reload upon every request
 
-Clone or download this repository
+Clone or download this repository-
+git clone https://github.com/Riteshk9908/social.git
 
 Install dependencies
 npm install
-Comments in code
+ Comments in code-
 Some comments in the source code are course notes and therefore might not seem necessary from a developer's point of view.
 
 Tools and Packages used
