@@ -1,0 +1,39 @@
+  
+ .btn{
+    background-color: rgb(100, 232, 237);
+    border-radius: 5%;
+}
+#inner-text{
+   background-color: rgb(229, 240, 228)
+}
+#posts-list-container{
+   color: rgb(242, 248, 241);
+}
+body{
+   background-image: radial-gradient(circle at 39% 47%, rgba(107, 107, 107,0.08) 0%, rgba(107, 107, 107,0.08) 33.333%,rgba(72, 72, 72,0.08) 33.333%, rgba(72, 72, 72,0.08) 66.666%,rgba(36, 36, 36,0.08) 66.666%, rgba(36, 36, 36,0.08) 99.999%),radial-gradient(circle at 53% 74%, rgba(182, 182, 182,0.08) 0%, rgba(182, 182, 182,0.08) 33.333%,rgba(202, 202, 202,0.08) 33.333%, rgba(202, 202, 202,0.08) 66.666%,rgba(221, 221, 221,0.08) 66.666%, rgba(221, 221, 221,0.08) 99.999%),radial-gradient(circle at 14% 98%, rgba(184, 184, 184,0.08) 0%, rgba(184, 184, 184,0.08) 33.333%,rgba(96, 96, 96,0.08) 33.333%, rgba(96, 96, 96,0.08) 66.666%,rgba(7, 7, 7,0.08) 66.666%, rgba(7, 7, 7,0.08) 99.999%),linear-gradient(45deg, rgb(97, 14, 117),rgb(20, 32, 127));
+}
+.btn:hover{
+   background-color: white;
+}
+#home-container{
+   display: flex;
+   
+   #feed-posts{
+       width: 70%;
+       padding: 10px;
+   }
+
+   #user-friends{
+       width: 30%;
+       padding: 10px;
+       
+       
+   }
+}
+.vertical {
+   border-left: 4px solid rgb(238, 245, 250);
+   height: 100%;
+   position:absolute;
+   left: 65%;
+
+}

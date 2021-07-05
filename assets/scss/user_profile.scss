@@ -1,0 +1,49 @@
+ body{
+   background-image: url("https://wallpapercave.com/wp/wp2848532.jpg");
+ }
+ 
+ input{
+   display:block;
+   
+ }
+ input[type=text]:focus {
+  background-color: rgb(228, 92, 68);
+}
+input[type=email]:focus {
+  background-color: rgb(238, 134, 16);
+}
+ label{
+    
+   top:30%;
+ }
+ .pdiv{
+   position:absolute;
+    top:30%;
+  
+    background: #3E215E;
+    background: -webkit-linear-gradient(top left, #3E215E, #55F7CE);
+    background: -moz-linear-gradient(top left, #3E215E, #55F7CE);
+    background: linear-gradient(to bottom right, #3E215E, #55F7CE);
+  //width:10%;
+   
+  border-radius: 3px;
+ }
+ form{
+  .form-line-active input:focus, .form-line-active textarea:focus {
+    border: 1px solid green !important;
+    box-shadow: 0 0 3px green !important;
+    -moz-box-shadow: 0 0 3px green !important;
+    -webkit-box-shadow: 0 0 3px green !important;
+    }
+    
+    input:focus, textarea:focus, select:focus {
+    outline-offset: 0px !important;
+    outline: none !important;
+    
+    }
+ }
+ form{
+   position: relative;
+   padding-left:50px;
+
+ }

@@ -1,0 +1,14 @@
+#layout-footer {
+  color: white;
+  background: #2FEECB;
+  background: -webkit-linear-gradient(top left, #2FEECB, #0382E6);
+  background: -moz-linear-gradient(top left, #2FEECB, #0382E6);
+  background: linear-gradient(to bottom right, #2FEECB, #0382E6);
+  padding: 5px 10px;
+  display: flex;
+  justify-content: flex-start; }
+  #layout-footer a {
+    color: white;
+    text-decoration: none; }
+  #layout-footer .footer-nav ul {
+    list-style: none; }
