@@ -48,19 +48,35 @@ Tools and Packages used
 
 Front-End
 HTML, CSS, JavaScript
+
 SCSS
+
 ejs
+
 Back-End
+
 node.js
+
 express
+
 mongoDB
+
 mongoose
+
 passport
+
 passport-local
+
 express-session
+
 JWT (JsonWebToken)
+
 Node SASS Middleware
+
 Noty JS
+
 Node Mailer
+
 Postman
+
 Socket.io
