@@ -13,6 +13,9 @@ One cannot edit or delete posts and comments created by other users
 
 # Manage User with basic functionalities:
 
+![WhatsApp Image 2021-10-07 at 7](https://user-images.githubusercontent.com/82172265/136403457-89475741-68d1-465a-9598-01eae76fa81e.png)
+
+
 Create, edit and delete posts and comments
 
 Upload User avatar
