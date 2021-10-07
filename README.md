@@ -23,7 +23,7 @@ Add/Remove friends
 
 One can like posts and comments on the feed
 
-Users can chat with their Friends using chatting Engine
+chatroom feature
 
 # API:
 
