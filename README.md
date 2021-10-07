@@ -1,4 +1,4 @@
-# view
+# UI
 ![WhatsApp Image 2021-10-07 at 7 33 25 PM](https://user-images.githubusercontent.com/82172265/136400827-5bc52d87-45a4-4b88-9b00-3356ebc0b8c5.jpeg)
 
 # Features
