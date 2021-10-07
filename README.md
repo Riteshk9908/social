@@ -1,8 +1,5 @@
+ 
 
-
-
-[WhatsApp Image 2021-10-07 at 7 33 25 PM](https://user-images.githubusercontent.com/82172265/136400587-a2924862-1b62-4b34-a8ae-617e7f46b771.jpeg)
-s
 
 Authentication:
 
