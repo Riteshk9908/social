@@ -5,13 +5,13 @@
 Authentication:
 
 User login with username and password
-Authorization :
+# Authorization :
 
 One cannot manage posts and view user profile without being authenticated
 
 One cannot edit or delete posts and comments created by other users
 
-Manage User with basic functionalities:
+# Manage User with basic functionalities:
 
 Create, edit and delete posts and comments
 
@@ -25,7 +25,7 @@ One can like posts and comments on the feed
 
 Users can chat with their Friends using chatting Engine
 
-API:
+# API:
 
 v1 API is made for adding and deleting the post
 Flash Messages:
@@ -40,12 +40,12 @@ All the functionalities are added dynamically using AJAX so that the page does n
 Clone or download this repository-
 git clone https://github.com/Riteshk9908/social.git
 
-Install dependencies
+# Install dependencies
 npm install
  Comments in code-
 Some comments in the source code are course notes and therefore might not seem necessary from a developer's point of view.
 
-Tools and Packages used
+# Tools and Packages used
         
 
 Front-End
